@@ -1,0 +1,8 @@
+﻿:root {
+    --primaryColor: #2dad8b;
+    --secondaryColor: #f4f4f4;
+    --bgMenuActive: #2b664c;
+    --bgButton: #2dad8b;
+    --logoImageUrl: url('https://tradeback.com.br/wp-content/uploads/2022/03/tradeback_b2b_shield.png');
+    --bgAside: var(--primaryColor);
+}
